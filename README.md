@@ -30,6 +30,6 @@ Cinco filósofos estão sentados em torno de uma mesa redonda. Cada um pode **pe
 - **Controle de Sincronização**: Utilização de mecanismos para garantir que dois filósofos não peguem o mesmo pauzinho ao mesmo tempo.
 
 ## Documentação
-- Documentação de toda a implementação: 
+- Documentação de toda a implementação: <a href="https://documentation-philosophers-dinner.netlify.app/">Documentação</a> 
 
 Este problema é uma introdução clássica à sincronização e concorrência em programação e sistemas operacionais.
